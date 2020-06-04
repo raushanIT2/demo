@@ -1,2 +1,0 @@
-# demo
-gcp-demo
